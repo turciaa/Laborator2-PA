@@ -14,7 +14,7 @@ int main()
 	while (a > 0)
 	{
 		a = function(a);
-		i++;
+		i++;kkk
 	}
 	printf("%d", i);
 	return 0;
